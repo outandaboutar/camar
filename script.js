@@ -29,15 +29,15 @@ var models = [
     },
     {
         url: './assets/articuno/scene.gltf',
-        scale: '0.2 0.2 0.2',
+        scale: '1.0 1.0 1.0',
         rotation: '0 180 0',
         position: '50 0 -200',
         info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
         url: './assets/dragonite/scene.gltf',
-        scale: '0.08 0.08 0.08',
-        rotation: '0 180 0',
+        scale: '2.0 2.0 2.0',
+        rotation: '0 0 0',
         position: '50 0 -200',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
